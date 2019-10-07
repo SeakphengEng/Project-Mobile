@@ -2,5 +2,10 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#0ea600</color>
+    <color name="color_background">#525951</color>
+    <color name="text_background">#000000</color>
+    <color name="blur_background">#80000000</color>
+    <color name="text_color">#ffffff</color>
+    <color name="price_product">#fe2020</color>
 </resources>
